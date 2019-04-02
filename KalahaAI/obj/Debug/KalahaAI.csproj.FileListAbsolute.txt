@@ -1,0 +1,7 @@
+C:\Users\asco\source\repos\KalahaAI\KalahaAI\bin\Debug\KalahaAI.exe.config
+C:\Users\asco\source\repos\KalahaAI\KalahaAI\bin\Debug\KalahaAI.exe
+C:\Users\asco\source\repos\KalahaAI\KalahaAI\bin\Debug\KalahaAI.pdb
+C:\Users\asco\source\repos\KalahaAI\KalahaAI\obj\Debug\KalahaAI.csprojAssemblyReference.cache
+C:\Users\asco\source\repos\KalahaAI\KalahaAI\obj\Debug\KalahaAI.csproj.CoreCompileInputs.cache
+C:\Users\asco\source\repos\KalahaAI\KalahaAI\obj\Debug\KalahaAI.exe
+C:\Users\asco\source\repos\KalahaAI\KalahaAI\obj\Debug\KalahaAI.pdb
